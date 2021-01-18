@@ -8,7 +8,7 @@ import (
 
 func main() {
 	fmt.Println("Hello World!!")
-	hanoi.Hanoi(2)
+	hanoi.Hanoi(3)
 
 	fmt.Println(seq.Fib(7))
 }
